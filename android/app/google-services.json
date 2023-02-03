@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542254591077",
+    "project_id": "pizza-england-369",
+    "storage_bucket": "pizza-england-369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542254591077:android:5f40537d0b30197e3caa8c",
+        "android_client_info": {
+          "package_name": "com.patryklipka.najlepsza_pizza_w_miescie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542254591077-k6cq9kkl2suel4ku786almh3fj195g66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-dONXa5ijRhO9zhm0JKBGINx7CtNUCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542254591077-k6cq9kkl2suel4ku786almh3fj195g66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
