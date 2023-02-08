@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:bloc/bloc.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:meta/meta.dart';
@@ -43,7 +42,7 @@ class RestaurantsCubit extends Cubit<RestaurantsState> {
       ..onError((error) {
         emit(
           RestaurantsState(
-            documents: [],
+            documents: const [],
             isLoading: false,
             errorMessage: error.toString(),
           ),
